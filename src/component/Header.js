@@ -52,7 +52,7 @@ function Header({ updateData }) {
 					<Image src="./images/search.png" roundedCircle width={20} />
 				</Button>
 			</InputGroup>
-			<h1>{inputSearch}</h1>
+			{/* <h1>{inputSearch}</h1> */}
 		</Container>
 	);
 }
